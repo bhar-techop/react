@@ -17,11 +17,21 @@
   "license": "ISC",
   "author": "ram",
   "type": "commonjs",
-  "main": "app.js",
+ 
   "scripts": {
     "test": "jest"
   },
   "dependencies": {
-    "parcel": "^2.13.3"
-  }
+    "parcel": "^2.13.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  },
+  "browserslist":[
+    "latest 2 Chrome versions",
+    "latest 2 Firefox versions"
+  ]
 }
+
