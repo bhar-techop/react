@@ -1,0 +1,27 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "this is the  react app",
+  "keywords": [
+    "react.namaste-react",
+    "ram"
+  ],
+  "homepage": "https://github.com/bhar-techop/react#readme",
+  "bugs": {
+    "url": "https://github.com/bhar-techop/react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhar-techop/react.git"
+  },
+  "license": "ISC",
+  "author": "ram",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "parcel": "^2.13.3"
+  }
+}
